@@ -1,4 +1,4 @@
-# 🐶 Dog Day| A Minimalistic Task Management Extension
+# 🐶 Dog Day | A Task Management Extension
 > :warning: **Warning:** This extension is probably riddled with bugs.
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
